@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e07c458b53f04684caf4cf19fdf1b439, type: 3}
+  m_Name: Seeker Doll
+  m_EditorClassIdentifier: 
+  id: 1
+  cardName: Seeker Doll
+  cardprefab: {fileID: 5531273203267838820, guid: 269fa7ea272da4748862e8c332536d19, type: 3}
+  description: '1 mana: Give this creature +1 power and Range 5 until end of turn.
+    Usable only once per turn and only on your turns.'
+  cost: 0
+  subtypes:
+  - Creature
+  - Construct
+  cardArt: {fileID: 21300000, guid: 61f1b156398c00d498c11b0adc44b226, type: 3}
+  power: 0
+  health: 2
+  speed: 2
+  taunt: 0
+  creaturePrefab: {fileID: 0}

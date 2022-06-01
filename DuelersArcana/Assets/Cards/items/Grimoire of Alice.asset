@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c15a4491d7d4744bda638784ee18d2, type: 3}
+  m_Name: Grimoire of Alice
+  m_EditorClassIdentifier: 
+  id: 2
+  cardName: Grimoire of Alice
+  cardprefab: {fileID: 6110300026160049392, guid: 52103a31feeee0f458408825e03e3675, type: 3}
+  description: Whenever a Construct enters the field under your control gain 1 mana.
+  cost: 4
+  subtypes:
+  - Unique
+  - Item
+  cardArt: {fileID: 21300000, guid: c694153f81222134aa87ab284a976129, type: 3}
+  itemPrefab: {fileID: 0}
